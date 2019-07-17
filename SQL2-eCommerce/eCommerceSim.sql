@@ -1,1 +1,0 @@
---- (eCommerce Simulation - No Hints) ---
